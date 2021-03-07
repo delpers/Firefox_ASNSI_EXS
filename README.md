@@ -1,7 +1,7 @@
 # Firefox_ASNSI_EXS
 
-Firefox_ASNSI_EXS digital data management. 
-
+Digital data management (Firefox EX).
+ 
 ## Cloud API
 
 ```bash
